@@ -1,4 +1,8 @@
 I need a file so I can continue.
 David added this line just to mess with Allison.
-Allison thinks David is mean for messing with her
-making changes to make David more busy
+<<<<<<< HEAD
+Allison thinks David is mean for messing with her.
+David refuses to acknowledge Allison's last line.
+Teamwork makes the dream work
+
+>>>>>>> d4389325e2fcbf07849fa7a24235cc4766e419a5
